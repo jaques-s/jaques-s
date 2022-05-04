@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, I'm Sergey 👋
+Senior Software Engineer with more than 7 years of commercial experience. I have excellent knowledge in backend development on PHP. In general worked with monolithic and microservice architectures.
+In addition, for the last 2 years I have been performing the duties of a team leader in development teams.
 
-<!--
-**jaques-s/jaques-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  📫  How to reach me: <a href='mailto:sergey.jacques.social@gmail.com'>sergey.jacques.social@gmail.com</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Stack
+* PHP 5, 7, 8
+* MySQL, PostgreSQL, Oracle, MongoDB
+* Bitrix Framework, Laravel, Yii
+* RabbitMQ, Kafka
+* Elasticsearch, Sphinx
+* GitHub/GitLab/Bitbucket
